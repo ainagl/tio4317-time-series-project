@@ -1,1 +1,2 @@
-# tio4317-time-series-project
+# TIØ4317 Empirical and Quantitative Methods in Finance
+## Project Assignment
