@@ -10,7 +10,6 @@ dependencies = [
     "matplotlib>=3.10.1",
     "numpy>=2.2.3",
     "pandas>=2.2.3",
-    "pandas-datareader>=0.10.0",
     "pmdarima>=2.0.4",
     "scikit-learn>=1.6.1",
     "scipy>=1.15.2",
