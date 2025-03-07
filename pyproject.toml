@@ -1,0 +1,18 @@
+[project]
+name = "tio4317-time-series-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arch>=7.2.0",
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.3",
+    "pandas>=2.2.3",
+    "pmdarima>=2.0.4",
+    "scikit-learn>=1.6.1",
+    "scipy>=1.15.2",
+    "statsmodels>=0.14.4",
+    "yfinance>=0.2.54",
+]
